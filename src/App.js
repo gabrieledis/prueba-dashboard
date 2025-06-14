@@ -42,7 +42,7 @@ export default function App() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
           <div className="bg-white rounded-lg shadow p-4">
             <p className="text-gray-500">Citas</p>
-            <p className="text-2xl font-bold">$12,300</p>
+            <p className="text-2xl font-bold">868</p>
           </div>
           <div className="bg-white rounded-lg shadow p-4">
             <p className="text-gray-500">Hombres</p>
