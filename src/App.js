@@ -38,7 +38,7 @@ export default function App() {
         </nav>
       </div>
       <main className="flex-1 p-6">
-        <h2 className="text-2xl font-bold mb-6">Cifras que confirman que Miguel es Bi</h2>
+        <h2 className="text-2xl font-bold mb-6">Cifras que confirman que Miguel es Gay</h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
           <div className="bg-white rounded-lg shadow p-4">
             <p className="text-gray-500">Ventas</p>
