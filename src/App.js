@@ -41,15 +41,15 @@ export default function App() {
         <h2 className="text-2xl font-bold mb-6">Cifras que confirman que Miguel es Gay</h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
           <div className="bg-white rounded-lg shadow p-4">
-            <p className="text-gray-500">Ventas</p>
+            <p className="text-gray-500">Citas</p>
             <p className="text-2xl font-bold">$12,300</p>
           </div>
           <div className="bg-white rounded-lg shadow p-4">
-            <p className="text-gray-500">Clientes</p>
+            <p className="text-gray-500">Hombres</p>
             <p className="text-2xl font-bold">845</p>
           </div>
           <div className="bg-white rounded-lg shadow p-4">
-            <p className="text-gray-500">Tickets Soporte</p>
+            <p className="text-gray-500">Damas</p>
             <p className="text-2xl font-bold">23</p>
           </div>
         </div>
